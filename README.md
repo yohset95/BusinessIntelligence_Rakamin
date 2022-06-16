@@ -8,7 +8,7 @@ Portfolio of Business Intelligence Short Course Batch 2 at Rakamin Academy
 * Suppose I am a Business Intelligence Analyst in Superstore
 * I was requested to solve problem from our department and the others, e.g. Marketing, Sales, Business Development, etc. using SQL
 
-## Tableau for Superstore Dataset (Case 1)
+## [Tableau for Superstore Dataset (Case 1)](https://github.com/yohset95/BusinessIntelligence_Rakamin/blob/main/Yohanes%20Setiawan_Tableau_Case1.pdf)</br> 
 * Suppose I am a Product Manager in Superstore
 * To increase our profit, we need to reduce returned
 products
@@ -16,8 +16,8 @@ products
 by customers
 * I would be using graph analysis using Tableau
 
-## Tableau for Superstore Dataset (Case 2)
+## [Tableau for Superstore Dataset (Case 2)](https://github.com/yohset95/BusinessIntelligence_Rakamin/blob/main/Yohanes%20Setiawan_Tableau_Case2.pdf)</br>
 * Suppose I am a Logistic Staff in Global Superstore
 * I need to increase our service in which of cost and time to ship of the sent products
 * Therefore, I would like to analyse what needs to be improved
-* I would be using graph analysis using Tableau.
+* I would be using graph analysis using Tableau
