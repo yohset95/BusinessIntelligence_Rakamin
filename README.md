@@ -22,7 +22,7 @@ by customers
 * Therefore, I would like to analyse what needs to be improved
 * I would be using graph analysis using Tableau
 
-## [Dashboard: Order based on Sales Region](https://public.tableau.com/app/profile/yohanes.setiawan/viz/Case_Study_Dashboard/Dashboard1?publish=yes)</br>
+## [Simple Interactive Dashboard: Order based on Sales Region](https://public.tableau.com/app/profile/yohanes.setiawan/viz/Case_Study_Dashboard/Dashboard1?publish=yes)</br>
 * Problem: We need improvement from order based on sales region
 * Insight: N Central West has been the lowest percentage of order because only one employee who works for the region
 * Recommendation: Recruit employee(s) for N Central West region or place another employee into N Central West region
